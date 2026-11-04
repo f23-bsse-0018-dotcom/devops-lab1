@@ -6,3 +6,6 @@ Name: Zuhail Zahid
 # devops-lab1
 My first DevOps lab repository
 
+## about this Lab
+i practised sjkadhsadj
+Date:' <04-11-2026>
